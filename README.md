@@ -29,3 +29,5 @@ De app staat niet in de Play Store. Daarom geeft Android een waarschuwing over "
 ## Bijwerken
 
 Open in het spel **⚙ Instellingen → Updates → Controleer**. Is er een nieuwere versie, dan kun je die daar meteen downloaden en installeren. Je voortgang blijft bewaard.
+
+De eerste keer vraagt Android toestemming om apps uit deze bron te installeren. Sta dat toe en kies daarna nog een keer **Installeren**. Na het bijwerken open je de app opnieuw.
