@@ -29,9 +29,3 @@ De app staat niet in de Play Store. Daarom geeft Android een waarschuwing over "
 ## Bijwerken
 
 Open in het spel **⚙ Instellingen → Updates → Controleer**. Is er een nieuwere versie, dan kun je die daar meteen downloaden en installeren. Je voortgang blijft bewaard.
-
-Een bepaalde versie downloaden kan ook met het versienummer in het adres:
-
-```
-https://github.com/GosseVledder/sam-the-explorer-app/releases/download/v1.0.0/sam-the-explorer.apk
-```
